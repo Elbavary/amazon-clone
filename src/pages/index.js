@@ -1,7 +1,15 @@
+import dynamic from 'next/dynamic';
 import Head from 'next/head';
-import Banner from '../components/Banner';
-import Header from '../components/Header';
-import ProductFeed from '../components/ProductFeed';
+
+const Banner = dynamic(() => import('../components/Banner'), {
+  ssr: false,
+});
+const ProductFeed = dynamic(() => import('../components/ProductFeed'), {
+  ssr: false,
+});
+const Header = dynamic(() => import('../components/Header'), {
+  ssr: false,
+});
 
 export default function Home({ products }) {
   return (
