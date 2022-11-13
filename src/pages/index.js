@@ -1,3 +1,4 @@
+import { getSession } from 'next-auth/react';
 import dynamic from 'next/dynamic';
 import Head from 'next/head';
 
@@ -29,6 +30,7 @@ export default function Home({ products }) {
 }
 
 export const getServerSideProps = async context => {
+  const session = await getSession(context);
   const products = await fetch('https://fakestoreapi.com/products').then(res =>
     res.json()
   );
@@ -36,6 +38,7 @@ export const getServerSideProps = async context => {
   return {
     props: {
       products,
+      session,
     },
   };
 };
