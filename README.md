@@ -103,7 +103,7 @@ Khaled Gamel- [linkedin](https://www.linkedin.com/in/khaled-gamel-ba5b37223/)
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#amazon-clone">back to top</a>)</p>
+<p align="right">(<a href="#amazon-clone" style="scroll-behavior: smooth">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
