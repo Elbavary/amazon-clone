@@ -95,7 +95,7 @@ All you need is Npm or yarn to install the depenancies of the app.
 - Filter products to get what you need and add them to cart.
 - Make your checkout for the products.
 
-<p align="right">(<a href="#">back to top</a>)</p>
+<p align="right">(<a href="#README-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
