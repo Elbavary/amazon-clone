@@ -131,8 +131,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [tailwind-url]: https://tailwindcss.com/
 [firebase.com]: https://firebase.google.com/
 [firebase-url]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
-[jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[jquery-url]: https://jquery.com
 [html5.com]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [html5-url]: https://html.com/html5/
 [css3.com]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
