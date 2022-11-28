@@ -1,12 +1,13 @@
-import { getSession, useSession } from 'next-auth/react';
 import Header from '../components/Header';
 import moment from 'moment';
 import db from '../../firebase';
 import Order from '../components/Order';
+import { getSession, useSession } from 'next-auth/react';
 
 const Orders = ({ orders }) => {
   const { data: session } = useSession();
 
+  console.log(orders);
   return (
     <div>
       <Header />
@@ -44,7 +45,6 @@ export default Orders;
 
 export const getServerSideProps = async context => {
   const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
-
   // Get users logged in credentials
   const session = await getSession(context);
 

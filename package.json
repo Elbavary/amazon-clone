@@ -1,5 +1,5 @@
 {
-  "name": "with-redux-toolkit",
+  "name": "Amazon-clone",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
@@ -12,12 +12,12 @@
     "@stripe/stripe-js": "^1.44.1",
     "@tailwindcss/line-clamp": "^0.2.0",
     "axios": "^1.1.3",
-    "firebase": "^8.10.1",
-    "firebase-admin": "^9.8.0",
+    "firebase": "^9.10.0",
+    "firebase-admin": "^11.0.1",
     "micro": "^9.4.1",
     "moment": "^2.29.4",
     "next": "latest",
-    "next-auth": "^4.16.4",
+    "next-auth": "^4.17.0",
     "react": "^18.2.0",
     "react-currency-formatter": "^1.1.0",
     "react-dom": "^18.2.0",

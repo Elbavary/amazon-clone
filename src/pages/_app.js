@@ -3,9 +3,9 @@ import { store } from '../app/store';
 import '../styles/globals.css';
 import { SessionProvider } from 'next-auth/react';
 
-const MyApp = ({ Component, pageProps, session }) => {
+const MyApp = ({ Component, pageProps }) => {
   return (
-    <SessionProvider session={session}>
+    <SessionProvider session={pageProps.session}>
       <Provider store={store}>
         <Component {...pageProps} />
       </Provider>

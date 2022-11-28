@@ -4,6 +4,7 @@ import { StarIcon } from '@heroicons/react/solid';
 import Currency from 'react-currency-formatter';
 import { useDispatch } from 'react-redux';
 import { addToBasket } from '../slices/basketSlice';
+import images from '../constants/images';
 
 const MAX_RATING = 5;
 const MIN_RATING = 1;
@@ -56,7 +57,7 @@ const Product = ({ id, title, price, description, category, image }) => {
 
       {hasPrime && (
         <div className="flex items-center space-x-2 -mt-5">
-          <img className="w-12" src="https://links.papareact.com/fdw" alt="" />
+          <Image className="w-12" src={images.prime} alt="image" />
           <p className="text-xs text-gray-500">FREE Next-day Delivery</p>
         </div>
       )}

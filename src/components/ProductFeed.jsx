@@ -1,3 +1,5 @@
+import Image from 'next/image';
+import images from '../constants/images';
 import Product from './Product';
 
 const ProductFeed = ({ products }) => {
@@ -17,11 +19,7 @@ const ProductFeed = ({ products }) => {
           />
         ))}
 
-      <img
-        className="md:col-span-full"
-        src="https://links.papareact.com/dyz"
-        alt=""
-      />
+      <Image className="md:col-span-full" src={images.productAd} alt="" />
 
       <div className="md:col-span-2">
         {products

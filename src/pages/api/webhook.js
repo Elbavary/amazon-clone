@@ -14,7 +14,7 @@ const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
 
 const endpointSecret = process.env.STRIPE_SIGNING_SECRET;
 
-const fullFillOrder = async session => {
+const fulfillOrder = async session => {
   return app
     .firestore()
     .collection('users')
@@ -52,7 +52,7 @@ export default async (req, res) => {
       const session = event.data.object;
 
       // Fulfill the order
-      return fullFillOrder(session)
+      return fulfillOrder(session)
         .then(() => res.status(200))
         .catch(err => res.status(400).send(`Webhook Error: ${err.message}`));
     }
