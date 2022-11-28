@@ -49,6 +49,8 @@ Features:
 - OAuth 2.0
 - Stripe
 
+<p align="right">(<a href="#amazon-clone">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
@@ -81,6 +83,8 @@ All you need is Npm or yarn to install the depenancies of the app.
    STRIPE_SIGNING_SECRET, NEXTAUTH_SECRET, NEXTAUTH_URL, HOST, STRIPE_SECRET_KEY, STRIPE_PUBLIC_KEY, GOOGLE_ID, GOOGLE_SECRET.
    ```
 
+<p align="right">(<a href="#amazon-clone">back to top</a>)</p>
+
 <!-- USAGE EXAMPLES -->
 
 ## Usage
@@ -88,6 +92,8 @@ All you need is Npm or yarn to install the depenancies of the app.
 - All you need to do, just create a username with oAuth (google auth).
 - Filter products to get what you need and add them to cart.
 - Make your checkout for the products.
+
+<p align="right">(<a href="#amazon-clone">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -110,7 +116,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 - [GitHub Pages](https://pages.github.com)
 - [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#amazon-clone">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
