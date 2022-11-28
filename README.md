@@ -38,8 +38,6 @@ Features:
 - The ability to edit items in cart.
 - Checkout with the help of stripe as testing mode.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 - [![Next][next.js]][next-url]
@@ -50,8 +48,6 @@ Features:
 - [![CSS3][css3.com]][css3-url]
 - OAuth 2.0
 - Stripe
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -85,8 +81,6 @@ All you need is Npm or yarn to install the depenancies of the app.
    STRIPE_SIGNING_SECRET, NEXTAUTH_SECRET, NEXTAUTH_URL, HOST, STRIPE_SECRET_KEY, STRIPE_PUBLIC_KEY, GOOGLE_ID, GOOGLE_SECRET.
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 
 ## Usage
@@ -95,17 +89,15 @@ All you need is Npm or yarn to install the depenancies of the app.
 - Filter products to get what you need and add them to cart.
 - Make your checkout for the products.
 
-<p align="right">(<a href="#README-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 
 ## Contact
 
-AbdElrahman Gbr - [@my_linkedin](www.linkedin.com/in/abdelrahmangbr) - email@example.com
+Khaled Gamel- [linkedin](https://www.linkedin.com/in/khaled-gamel-ba5b37223/) -
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#Amazon Clone">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
