@@ -72,7 +72,7 @@ All you need is Npm or yarn to install the depenancies of the app.
 
 1. Clone the repo
    ```sh
-   https://github.com/Elbavary/Amazon.git
+   https://github.com/Elbavary/amazon-clone.git
    ```
 2. Install NPM packages
    ```sh
@@ -99,9 +99,9 @@ All you need is Npm or yarn to install the depenancies of the app.
 
 ## Contact
 
-Khaled Gamel- [linkedin](https://www.linkedin.com/in/khaled-gamel-ba5b37223/)
+Khaled Gamel [linkedin](https://www.linkedin.com/in/khaled-gamel-ba5b37223/) [facebook](https://www.facebook.com/khaledgamel6) [twitter](https://www.twitter.com/Khaled_Gamel)
 
-Project Link: [https://github.com/Elbavary/Amazon](https://github.com/Elbavary/Amazon)
+Project Link: [https://github.com/Elbavary/amazon-clone](https://github.com/Elbavary/amazon-clone)
 
 <p align="right">(<a href="#amazon-clone">back to top</a>)</p>
 
