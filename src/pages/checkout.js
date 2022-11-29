@@ -7,6 +7,7 @@ import Currency from 'react-currency-formatter';
 import { useSession } from 'next-auth/react';
 import { loadStripe } from '@stripe/stripe-js';
 import axios from 'axios';
+import images from '../constants/images';
 const stripePromise = loadStripe(process.env.stripe_public_key);
 
 const Checkout = () => {
@@ -41,7 +42,7 @@ const Checkout = () => {
         {/* Right */}
         <div className="flex-grow m-5 shadow-sm">
           <Image
-            src="https://links.papareact.com/ikj"
+            src={images.banner}
             width={1020}
             height={250}
             objectFit="contain"
