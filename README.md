@@ -57,7 +57,7 @@ Features:
 
 This is the live version of the app if you wanna play online with it:
 
-- .......
+- [https://amazon-clone-c5li.vercel.app/](https://amazon-clone-c5li.vercel.app/)
 
 ### Prerequisites
 
