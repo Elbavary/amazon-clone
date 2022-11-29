@@ -101,7 +101,7 @@ All you need is Npm or yarn to install the depenancies of the app.
 
 Khaled Gamel- [linkedin](https://www.linkedin.com/in/khaled-gamel-ba5b37223/)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Elbavary/Amazon](https://github.com/Elbavary/Amazon)
 
 <p align="right">(<a href="#amazon-clone">back to top</a>)</p>
 
